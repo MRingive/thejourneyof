@@ -3,7 +3,7 @@ title: Poole
 tagline: The Jekyll Butler
 url: https://mringive.github.io/thejourneyof
 paginate: 1
-baseurl: ""
+baseurl: "thejourneyof"
 permalink: pretty
 
 # Gems
