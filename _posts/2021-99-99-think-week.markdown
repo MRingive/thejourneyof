@@ -643,6 +643,6 @@ This is my memo. Now it is your turn. You don't have to go to Germany for two we
 
 _16-29 Oct 2021. Mittenwald, Germany._[^fn-memo-dates]
 
-![Me in Mittenwald Airbnb](/assets/images/think-week-2021/20211016_183607.jpg "Me in Mittenwald Airbnb")
+![Me in Mittenwald Airbnb]({{ site.baseurl }}/assets/images/think-week-2021/20211016_183607.jpg "Me in Mittenwald Airbnb")
 
 [^fn-memo-dates]: The ideas in this post were all hatched during my two think weeks. The distraction free environment and the freedom I had was amazing. I did most of the writing during this period too. But refining everything took quite a while so I spent weeks after coming home doing this.
