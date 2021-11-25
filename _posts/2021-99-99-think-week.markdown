@@ -48,7 +48,7 @@ Life is good. But I believe part of the reason is that I'm excited for the chall
 
 After two weeks alone in the small town of Mittenwald[^fn-mittenwald] this is what I have decided to focus on:
 
-[^fn-mittenwald]: [Mittenwald](https://en.wikipedia.org/wiki/Mittenwald) is an beautiful small town tucked in between the mountains. I loved every second being there and can definitely recommend it as a base for hiking trips and other nature adventures.
+[^fn-mittenwald]: [Mittenwald](https://en.wikipedia.org/wiki/Mittenwald) is an beautiful small town tucked in between the mountains near the Austrian border. I loved every second being there and can definitely recommend it as a base for hiking trips and other nature adventures.
 
 - [Minimalism](#minimalism)
 - [Money](#money)
@@ -108,9 +108,9 @@ So here is my plan:
 
 I stumbled upon this topic while reading about minimalism. And I'm so glad I did as it may turn out to be the most important discovery I have made these last few ~~days~~ months. So a big thanks to [Alice Crady](https://alice-crady.medium.com/) for [her post on professional freedom](https://medium.com/the-ascent/create-more-professional-freedom-with-3-simple-lifestyle-shifts-9a88bdda57fc). It sparked my interest. And it lead me to _Your Money or Your Life_ and to [a review of that book](https://www.mrmoneymustache.com/2012/12/18/your-money-or-your-life/) by none other than _Mr. Money Mustache_[^fn-mr-money-mustache].
 
-[^fn-mr-money-mustache]: I love the internet. Mr. Money Mustache runs a great blog that I can only recommend. It is one of the main sources that got me interested in this whole thing. And as you may observe I have also linked to his blog quite a few times.
+[^fn-mr-money-mustache]: I love the internet. Mr. Money Mustache runs a great blog that I can only recommend. It is one of the main sources that got me interested in this whole thing. And as you may observe I have also linked to his site quite a few times.
 
-The topic I discovered wasn't just _money_. I have known about that since I was old enough to browse toy store catalogs. No, what I discovered was a different way of thinking about money. Or, more correctly: I discovered that there are people _actually thinking_ about how they spend their money.
+The topic I discovered wasn't just _money_. I have known about that since I was old enough to browse toy store catalogs. No, what I discovered was a different way of thinking about money. Or, more correctly---I discovered there are people _actually thinking_ about how they spend their money.
 
 I had heard about financial freedom/independence/early retirement/[FIRE][FIRE] before. But as most people I had dismissed it as a fringe movement and a pipe dream.
 
@@ -118,7 +118,7 @@ I had heard about financial freedom/independence/early retirement/[FIRE][FIRE] b
 
 But after reading up on it I no longer feel that way.
 
-As I read about these ideas I was struck by how much they were backed up by science and math. This wasn't snake oil salesmanship or wild ideas with no footing. This was simply a _rational_ way to think about spending and saving money. And as the penny dropped I realized that my own ideas and beliefs about money were the crazy ones. My own attitude towards money&mdash;shaped by society&mdash;was the one out of touch with reality.
+As I read about these ideas I was struck by how much they were backed up by science and math. This isn't snake oil salesmanship or wild ideas with no footing. This is simply a _rational_ way to think about spending and saving money. And as the penny dropped I realized that my own ideas and beliefs about money were the crazy ones. My own attitude towards money&mdash;largely shaped by society&mdash;was the one out of touch with reality.
 
 In the following I'll briefly explain what financial freedom is and why I think it makes sense. Then I'll mention a few steps I'm taking to get started on this journey. 
 
@@ -127,11 +127,11 @@ In the following I'll briefly explain what financial freedom is and why I think 
 
 Financial freedom simply means you have freedom in your finances (duh). That you do not depend on your next pay-check and that your budget does not limit you from doing what you want. Simple enough. But the broader financial freedom idea (or [FIRE][FIRE] movement) is a set of beliefs about how to improve your relationship with money, income, and expenses. It is a lifestyle.
 
-The FIRE (Financial Independence, Retire Early) lifestyle is about gaining financial independence and then retiring once that independence is reached. Often much earlier than usual. And the way to do this is by saving a much higher percentage of your income and investing those savings.[^fn-fire-wiki]
+The Financial Independence, Retire Early (FIRE) lifestyle is about gaining financial independence and retiring once that is reached. To goal is to retire much earlier than usual. And the way to do this is by saving a much higher percentage of your income and investing those savings.[^fn-fire-wiki]
 
 [^fn-fire-wiki]: Read the [Wikipedia entry for FIRE][FIRE] for a good introduction to the main ideas.
 
-But a lifestyle is more than just saving 50%+ of your income and investing that in index funds. And as I learned more it quickly became apparent that the FIRE ideas are indeed more holistic. I can recommend [Getting Rich: from Zero to Hero in One Blog Post](https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/), [Manifesto][early-retirement-extreme-manifesto] and [Can I retire young?][can-i-retire-young] for a feel of what this lifestyle is about. I should note that these are just some ideas from two bloggers and there are most likely many other views. This is just what I stumbled upon that connected with me.
+But a lifestyle is more than just saving 50%+ of your income and investing that in index funds. And as I learned more it quickly became apparent that the FIRE ideas are indeed more holistic. I can recommend [Getting Rich: from Zero to Hero in One Blog Post](https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/), [Manifesto][early-retirement-extreme-manifesto] and [Can I retire young?][can-i-retire-young] for a feel of what this lifestyle is about. I should note that these are just some ideas from two bloggers and there are likely many other views. This is just what I stumbled upon that connected with me.
 
 [can-i-retire-young]: http://earlyretirementextreme.com/can-i-retire-young.html
 [early-retirement-extreme-manifesto]: http://earlyretirementextreme.com/manifesto.html 
@@ -142,11 +142,13 @@ To me financial freedom makes sense because the arguments in favor of it are bas
 
 My own belief systems regarding money were&mdash;and still are&mdash;fussy and without much grounding. I save a small percentage of my income, donate an even smaller percentage, and spend the rest on a whim. 
 
-It is quite humbling to realise how little I understand my own beliefs about money. More troubling, that I don't really agree with these beliefs, yet I still carry them around&mdash;and have done so for a long time. Reading about financial freedom is uplifting as I understand and agree with the beliefs this idea proposes. And I understand the reasoning behind these beliefs. Sure, retiring in 10 years sounds great. But understanding my attitude towards and beliefs about money may be a lesson more valuable than early retirement.
+It is quite humbling to realize how little I understand my own beliefs about money. More troubling that I don't agree with these beliefs, yet I still carry them around&mdash;and have done so for a long time. 
+
+Reading about financial freedom is uplifting as I understand and agree with the beliefs this idea proposes. And I understand the reasoning behind these beliefs. Sure, retiring in ten years sounds great. But understanding my own attitude towards and beliefs about money may be a lesson much more valuable than early retirement.
 
 ### The Science Checks Out
 
-We are diving in the deep end with this one. Science being science the results and conclusions are never straightforward or certain. So to convince myself&mdash;and maybe you&mdash;I had to do some digging around Wikipedia, Investopedia, scientific papers, and several news stories trying to explain said scientific papers.
+We are diving in the deep end with this one. Science being science the results and conclusions are never straightforward or certain. So to convince myself&mdash;and maybe you&mdash;I had to do some digging around Wikipedia, Investopedia, world reports, scientific papers, and several news stories trying to explain said scientific papers.
 
 #### Hedonic Adaptation
 Let's start with Wikipedia for this one:
@@ -155,15 +157,15 @@ Let's start with Wikipedia for this one:
 
 This theory suggests that we return to some (more or less stable, depending on who you ask) happiness set point. Even after major positive or negative life events. 
 
-One often cited source is the 1978 paper [Lottery Winners and Accident Victims: Is Happiness Relative?][lottery-paper] by Brickman, Coates, and Janoff-Bulman. In one of the first studies of hedonic adaptation, it showed that people in a control group rated themselves as happy as a group of lottery winners in the past, present, and future. It also suggested that paraplegics expected to be as happy as the lottery winners in a couple of years. I.e., both groups would return to their baseline. Which goes against everything we believe. Lottery winners are supposed to be happy. At the very least they should expect to be happier than newly paralyzed victims[^fn-lottery-happier-than-paralyzed]. When first learning about this the normal response is disbelief&mdash;this can't be true?
+One often cited source is the 1978 paper [Lottery Winners and Accident Victims: Is Happiness Relative?][lottery-paper] by Brickman, Coates, and Janoff-Bulman. In one of the first studies of hedonic adaptation, it showed that people in a control group rated themselves as happy as a group of lottery winners in the past, present, and future. It also suggested that paraplegics expected to be as happy as the lottery winners in a couple of years. I.e., both groups would return to their baseline. Which goes against everything we believe. Lottery winners are supposed to be happy. At the very least they should expect to be happier than newly paralyzed victims.[^fn-lottery-happier-than-paralyzed] When first learning about this the normal response is disbelief&mdash;this can't be true?
 
 [lottery-paper]: https://www.researchgate.net/publication/22451114_Lottery_Winners_and_Accident_Victims_Is_Happiness_Relative
 
-[^fn-lottery-happier-than-paralyzed]: The lottery winners rated themselves as happier than paralyzed victims in the present. As would be expected. But when rating future happiness the two groups did not differ significantly. Paraplegic victims expected to be as happy as lottery winners. The paper warns that this finding should be _"viewed most cautiously"_ as 10 paraplegics did not want to answer the future happiness question. If their refusal is due to a negative view of the future it may bring down the future happiness evaluation for the paraplegic group.
+[^fn-lottery-happier-than-paralyzed]: The lottery winners indeed rated themselves as happier than paralyzed victims in the present. As would be expected. But when rating future happiness the two groups did not differ significantly. Paraplegic victims expected to be as happy as lottery winners. The paper warns that this finding should be _"viewed most cautiously"_ as 10 paraplegics did not want to answer the future happiness question. If their refusal is due to a negative view of the future it may bring down the future happiness evaluation for the paraplegic group.
 
-image
+![Lottery Winners and Accident Victims: Is Happiness Relative?]({{ site.url }}/assets/images/think-week-2021/lottery-winners-study.png "Lottery Winners and Accident Victims: Is Happiness Relative?")
 
-It turns out there seems to be something about it. There are however lots of wrinkles to this. Some studies show hedonic adaptation, some [do not][world-happiness-report]. Some show a static set point for happiness, others show that it may change over a lifetime. Some suggest that [we can control around 40% of our happiness](https://www.verywellmind.com/hedonic-adaptation-4156926). The rest is determined by our set point (50%) and external circumstances (10%). The whole concept of a single happiness set point may also be too simple as happiness may be composed of [multiple well-being variables][revising-adaptation].
+It turns out there seems to be something about it. There are however lots of wrinkles to this. Some studies show hedonic adaptation, some [do not][world-happiness-report-2012]. Some show a static set point for happiness, others show that it may change over a lifetime. Some suggest that [we can control around 40% of our happiness](https://www.verywellmind.com/hedonic-adaptation-4156926). The rest is determined by our set point (50%) and external circumstances (10%). The whole concept of a single happiness set point may also be too simple as happiness is be composed of [multiple well-being variables][revising-adaptation].
 
 [revising-adaptation]: https://www.researchgate.net/publication/7062343_Beyond_the_Hedonic_Treadmill_Revising_the_Adaptation_Theory_of_Well-Being
 
@@ -175,15 +177,15 @@ Hedonic adaptation appears to be a generally accepted theory. We do adapt. Maybe
 
 But adaptation can also work the other way. It may reduce our happiness when reaching financial freedom. Quitting the 9-to-5 may feel great but soon retirement becomes the new normal. One argument against this is the paper [Explaining happiness][explaining-happiness-paper] by economist Richard A. Easterlin. In it he argues that hedonic adaptation may not be equal across all domains. In particular he studied the impact of material wealth, marriage, and health in relation to happiness. And it appears that adaptation is more complete for the material domain than it is for the domain of family and health:
 
-> Hedonic adaptation, as we have seen, is less complete with regard to family circumstances and health than in the material goods domain. 
+> Hedonic adaptation, as we have seen, is less complete with regard to family circumstances and health than in the material goods domain. - [Explaining happiness][explaining-happiness-paper]
 
 [explaining-happiness-paper]: https://www.pnas.org/content/100/19/11176
 
-Easterlin shows that as we acquire more material goods, our desire increases in tandem. Once we have a big house and car, we now desire a swimming pool too. This behavior is not observed in the domain of health and family and may explain why adaptation is more strongly observed in relation to the material world, including income.
+Easterlin shows that as we acquire more material goods, our desire increases in tandem. Once we have a big house and car, we now desire a swimming pool too---something we did not desire before. This behavior is not observed in the domain of health and family and may explain why adaptation is more strongly observed in relation to the material world, including income.
 
 > In particular, people make decisions assuming that more income, comfort, and positional goods will make them happier, failing to recognize that hedonic adaptation and social comparison[[^fn-social-comparison]] will come into play, raise their aspirations to about the same extent as their actual gains, and leave them feeling no happier than before. As a result, most individuals spend a disproportionate amount of their lives working to make money, and sacrifice family life and health, domains in which aspirations remain fairly constant as actual circumstances change, and where the attainment of one’s goals has a more lasting impact on happiness. Hence, a reallocation of time in favor of family life and health would, on average, increase individual happiness. - [Explaining happiness][explaining-happiness-paper]
 
-[^fn-social-comparison]: Social comparison argues that your situation depends on others. E.g., it can be observed that ["At a point in time within any society, richer people are on average happier than poorer people"][world-happiness-report]. Your absolute wealth may not be as important as your wealth relative to the rest of society. The same can be observed for other areas.
+[^fn-social-comparison]: Social comparison argues that your situation depends on others. E.g., it has been observed that ["At a point in time within any society, richer people are on average happier than poorer people"][world-happiness-report-2012]. Your absolute wealth may not be as important as your wealth relative to the rest of society. The same can be observed for other areas.
 
 If we want to maximize our happiness, we should work on domains where hedonic adaptation isn't as complete. And it appears that we should reduce our focus on income, comfort, and material goods. That sounds very much in line with the financial independent lifestyle. We can reduce our spending without reducing our happiness much---if any---and instead focus our time on more important areas such as family and health.[^fn-hedonic-colorful]
 
@@ -194,7 +196,7 @@ More is not always better. One car may significantly improve your situation. You
 
 > "Diminishing marginal utility refers to the phenomenon that each additional unit of gain leads to an ever-smaller increase in subjective value. For example, three bites of candy are better than two bites, but the twentieth bite does not add much to the experience beyond the nineteenth (and could even make it worse). This effect is so well established that it is referred to as the “law of diminishing marginal utility” in economics (Gossen, 1854/1983)" - [E.T. Berkman, ... J.L. Livingston, in Self-Regulation and Ego Control, 2016](https://www.sciencedirect.com/topics/psychology/diminishing-marginal-utility)
 
-And studies have indeed observed and [confirmed this law in relation to income][world-happiness-report]:
+And studies have indeed observed and [confirmed this law in relation to income][world-happiness-report-2012]:
 
 > "We have thus confirmed the (cardinalist) assumption of nineteenth century economists that marginal utility of income declines with income." - [The Marginal Utility of Income](https://www.sciencedirect.com/science/article/abs/pii/S0047272708000248) ([pdf](https://cep.lse.ac.uk/pubs/download/dp0784.pdf))
 
@@ -202,17 +204,17 @@ The implications of this law as it relates to money are straightforward. More mo
 
 But free time also has diminishing returns. Working five days a week means we cherish the two days off. If we work zero days, the additional five days off may not feel as valuable as our weekends previously did. 
 
-The law of marginal utility more or less suggests that we should live a balanced life. At least if we want to maximize utility. Are you living a balanced life right now? I'm not. I spend most of my week working to earn more money despite the fact that the utility of income is rapidly declining for me.
+The law of diminishing marginal utility more or less suggests that we should live a balanced life.[^fn-diminishing-marginal-utility-my-interpretation] At least if we want to maximize utility. Are you living a balanced life right now? I'm not. I spend most of my week working to earn more money despite the fact that my utility of income is rapidly declining.
 
-The law of marginal utility does not suggest that financial freedom is the way forward. But it does show that excess is bad. The more time or money we have, the less we value any gain of it. 
+[^fn-diminishing-marginal-utility-my-interpretation]: This is my personal interpretation.
 
-My current operating mode of working five days a week to buy things I don't need sounds stupid with this view.
+The law does not suggest that financial freedom is the way forward. But it does show that excess is bad. The more time or money we have, the less we value any gain of it. My current operating mode of working five days a week to buy things I don't need sounds stupid with this view.
 
 
 #### Income and Happiness
-The big one. Going directly after the main question: does higher income mean more happiness? If by happiness you mean _evaluation of life_, then yes. If you mean _emotional well-being_ the answer is a maybe. 
+The big one. Going directly after the main question: does higher income equal more happiness? If by happiness you mean _evaluation of life_, then yes. If you mean _emotional well-being_ the answer is a maybe. 
 
-Life evaluation is the thoughts you have about your life when you think about it. A way to measure this is with the following question:
+Life evaluation is your general evaluation of life. How satisfied are you. It is the thoughts you have about your life when stop up and think about it. A way to measure this is with the following question:
 
 > "Please imagine a ladder with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you, and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?" - [High income improves evaluation of life but not emotional well-being][evaluation-of-life-but-not-emotional]
 
@@ -222,7 +224,7 @@ Emotional well-being is the emotional quality of your everyday life. How frequen
 
 > "Did you experience the following feelings during a lot of the day yesterday? How about _____?" - [High income improves evaluation of life but not emotional well-being][evaluation-of-life-but-not-emotional]
 
-Using these two measures, Daniel Kahneman and Angus Deaton studied whether money buys happiness. And their conclusion in 2010 was that 
+Using these two measures, Daniel Kahneman and Angus Deaton studied whether money buys happiness. And their conclusion in 2010 was that:
 
 > "...high income buys life satisfaction but not happiness, and that low income is associated both with low life evaluation and low emotional well-being."
 
@@ -236,11 +238,11 @@ But let's dig a bit deeper. How does these findings relate to our observations a
 
 At first glimpse they may seem to contradict each other. But in fact that is not the case. The paper by Kahneman and Deaton directly mentions adaptation as something to be aware of when studying changes in income. If people did not adapt, we would expect much bigger differences in happiness across income levels. But the results do suggest that household income matters for both emotional well-being and life satisfaction&mdash;so people do not adapt completely.
 
-The law of diminishing marginal utility is also present in the studies. Both papers use [log scale][log-scale-wikipedia] for income when plotting and correlating. If your income is $20,000 you may take one step up the ladder of life satisfaction with an additional $20,000. But if your income is $40,000 you will need $40,000 to take another step. You can see this play out in the graph from [High income improves evaluation of life but not emotional well-being][evaluation-of-life-but-not-emotional]: 
+The law of diminishing marginal utility is also present in the studies. Both papers use [log scale][log-scale-wikipedia] for income when plotting and correlating. If your income is $20,000 you may take one step up the ladder of life satisfaction with an additional $20,000. But if your income is $40,000 you will need another $40,000 to take a step. You can see this play out in the graph from [High income improves evaluation of life but not emotional well-being][evaluation-of-life-but-not-emotional]: 
 
 [log-scale-wikipedia]: https://en.wikipedia.org/wiki/Logarithmic_scale
 
-TODO Image
+![Life satisfaction graph]({{ site.url }}/assets/images/think-week-2021/life-satisfaction-graph.png "Graph showing life satisfaction in log scale. The higher your income is, the more money you need to increase your life satisfaction.")
 
 So the studies do not contradict our previous findings. But they do suggest that income buys happiness. At least to a certain point. That is good news as I currently spend a large part of my waking hours trading time for money. At least that isn't completely wasted. 
 
@@ -260,7 +262,7 @@ Not money. Not fame. Not working harder. Relationships. And to form good relatio
 
 [Explaining happiness][explaining-happiness-paper] also suggests that we should focus on domains where hedonic adaptation is less complete. Areas such as family and health are more important than income, comfort, and material goods.
 
-Finally, the [World happiness report 2012][world-happiness-report-2012].[^fn-world-happiness-reports] The first entry suggested by [Google Scholar][google-scholar] for the search term "happiness" and cited by 2515.[^fn-my-research-methods]
+Finally, the [World Happiness Report 2012][world-happiness-report-2012].[^fn-world-happiness-reports] The first entry suggested by [Google Scholar][google-scholar] for the search term "happiness" and cited by 2515.[^fn-my-research-methods]
 
 The following table from Appendix B shows the _"Effects on life evaluation of each factor, as a multiple of the effect of a 30% increase in income"_:
 
@@ -297,7 +299,7 @@ The following table from Appendix B shows the _"Effects on life evaluation of ea
     <td>-10</td>
   </tr>
   <tr>
-    <td>Physical health (Poor versus good, self-assessed</td>
+    <td>Physical health (Poor versus good, self-assessed)</td>
     <td>-15</td>
   </tr>
   <tr>
@@ -331,9 +333,9 @@ Unemployment---especially unwanted---removes all of these benefits. But financia
 [world-happiness-reports]: https://worldhappiness.report/
 [google-scholar]: https://scholar.google.com/
 
-[^fn-world-happiness-reports]: The 2012 World happiness report is the first of many reports. You can find them all at [worldhappiness.report][world-happiness-reports]. I have browsed through the later reports but most of them seem to target more specific questions so I have decided to use the information from the 2012 report. I did find another interesting section in the [2017 report][world-happiness-report-2017] called [The Key Determinants of Happiness And Misery][world-happiness-report-2017-key-determinants]. A quote from the conclusion suggests that income does matter for happiness but a lot of other factors may be more important: _"Even so, household income per head explains under 2% of the variance of happiness in any country. Moreover it is largely relative income that matters, so as countries have become richer, many have failed to experience any increase in their average happiness._
+[^fn-world-happiness-reports]: The 2012 World Happiness Report is the first of many reports. You can find them all at [worldhappiness.report][world-happiness-reports]. I have browsed through the later reports but most of them seem to target more specific questions so I have decided to use the information from the 2012 report. I did find another interesting section in the [2017 report][world-happiness-report-2017] called [The Key Determinants of Happiness And Misery][world-happiness-report-2017-key-determinants]. A quote from the conclusion suggests that income does matter for happiness but a lot of other factors may be more important: _"Even so, household income per head explains under 2% of the variance of happiness in any country. Moreover it is largely relative income that matters, so as countries have become richer, many have failed to experience any increase in their average happiness._
 
-[^fn-my-research-methods]: Yes. This is largely how I do "research". Enter something into [Google Scholar][google-scholar] or just regular old Google and see what pops up. Keep that I mind when you read what I write.
+[^fn-my-research-methods]: Yes. This is largely how I do "research". Enter something into [Google Scholar][google-scholar] or just regular old Google and see what pops up. Keep that I mind as you read the rest of my post.
 
 ### The Math Checks Out
 
@@ -351,13 +353,27 @@ Lets start with a few simple observations from [Wikipedia][FIRE]:
 		
 So if you save 10% you will have to work 9 years to save for 1. But if you save 75% you only need 4 months.
 
-Next up we need to estimate how much we need to save to be able to retire safely. There are a number of factors at play here, such as risk tolerance, expected spending during retirement, flexibility, etc. This means that the size of the nest egg for retirement is somewhat down to personal preferences. But with that said, there are still some overall suggestions based on statistics and scientific studies.
+_But what if I already have $1 million in the bank?_ The most important metric is still your savings rate. If you won that money in a lottery, quit your job, and your annual spending is now $1 million you'll be out on the street in roughly one year. Your total wealth or income does not matter. What matters is the relationship between your wealth and your expenses.
 
-A [general guideline is the 4% rule][FIRE] which is based on a study referred to as the [Trinity Study](https://en.wikipedia.org/wiki/Trinity_study) (a 1998 paper by three professors at Trinity University). The rule suggests that 4% is a safe withdrawal rate for a 30 year retirement. According to the Trinity Study, a 4% withdrawal rate keeping up with inflation has a high success rate. Meaning a retiree would be able to withdraw 4% every year for 30 years with low risk of exhausting the entire portfolio and thereby running out of money.
+Next up we need to estimate how much we should save to retire safely. A number of factors are at play here, such as risk tolerance, expected spending during retirement, flexibility, etc. This means the size of the nest egg for retirement is somewhat down to personal preferences. With that said there are still some overall suggestions based on historical data.
 
-The Trinity Study suggests 4% but it is by no means a guarantee. High success rate does not mean guaranteed success. There was a risk the portfolio would deplete earlier than 30 years in the study. Furthermore, there are  differences between the study and the FIRE movement. One big one being a much longer expected retirement duration. This all means that the 4% rule is a debated topic. [This post](https://www.mrmoneymustache.com/2012/05/29/how-much-do-i-need-for-retirement/) explains why Mr. Money Mustache uses the 4% rule and [this series by Early Retirement Now](https://earlyretirementnow.com/safe-withdrawal-rate-series/) has a lot of good information arguing against blindly following it.
+A [general guideline is the 4% rule][FIRE] which is based on a study often referred to as the [Trinity Study](https://en.wikipedia.org/wiki/Trinity_study) (a [1998 paper](https://www.aaii.com/files/pdf/6794_retirement-savings-choosing-a-withdrawal-rate-that-is-sustainable.pdf) by three professors at Trinity University). The rule suggests that 4% can be used as a rough guideline for a safe withdrawal rate. This 4% is based on the initial portfolio value at the start of retirement. So whatever value your portfolio has, 4% of that is your annual budget in dollars. This is a useful way to think about retirement portfolio value as we can estimate the required size based on our current expenses. We just need a portfolio big enough that 4% of it covers our annual expenses. 
 
-I'm not going to argue for or against the rule. There are already much smarter people doing that and I suggest you read some of their arguments. But to have a starting point I'll use the 4% rule in the following calculations. The same principles applies for a 3.5%, 3%, or any other withdrawal rate. The time horizon will simply be longer for smaller rates. TODO: mention this tool: https://cfiresim.com/?
+Note that this 4% guideline is used to compute our withdrawal amount in dollars (or whatever currency you use). It does not mean that we withdraw 4% from the portfolio every year. The 4% is based on the starting point. Some years we may withdraw what amounts to more than 4% and some years less. If we start with a portfolio of $1000 we can withdraw $40 every year to cover our expenses. In most scenarios we would want this dollar amount to increase with the rate if inflation. $40 in 30 years can most likely buy me a lot less than it can today. So to keep the same living standard the dollar amount to withdraw will follow inflation.
+
+According to the Trinity Study, a 4% withdrawal rate keeping up with inflation has a very low failure rate. Using historical data from 1926 to 1995, the study shows a retiree would be able to withdraw for 30 years with low risk of exhausting the entire portfolio and thereby running out of money. For a 100% stock based portfolio the success rate was 95% and for a 75/25 stock/bond portfolio it was 98%. For a 50/50 portfolio the success rate was also 95%.
+
+[![Trinity Study Results With Inflation]({{ site.url }}/assets/images/think-week-2021/trinity-study-results-with-inflation.png "Trinity Study Results With Inflation")]({{ site.url }}/assets/images/think-week-2021/trinity-study-results-with-inflation.png)
+
+The Trinity Study suggests 4%. But it is by no means a guarantee. High success rate does not mean guaranteed success. There was a risk the portfolio would deplete earlier than 30 years. Furthermore, there are  differences between the study and the FIRE movement. One big one being a much longer expected retirement duration. Another one being that we are now in 2021. This all means that the 4% rule is a debated topic. [This post](https://www.mrmoneymustache.com/2012/05/29/how-much-do-i-need-for-retirement/) explains why Mr. Money Mustache uses the 4% rule and [this series by Early Retirement Now](https://earlyretirementnow.com/safe-withdrawal-rate-series/) has a lot of good information arguing against blindly following it.
+
+I'm not going to argue for or against the rule. There are already much smarter people doing that and I suggest you read some of their arguments. To some extent it comes down to personal preferences, especially risk aversion.[^fn-4-percent-guideline-personal-preferences] But to have a starting point I'll use 4% in the following calculations. The same principles applies for a 3.5%, 3%, or any other withdrawal rate. The time horizon will simply be longer for smaller rates.[^fn-cfiresim]
+
+[^fn-4-percent-guideline-personal-preferences]: While it may come down to personal preferences, it is still a very good idea to be informed and consider the different arguments. You may believe you are okay with the risk involved in e.g., a 5% withdrawal rate. But you can only accurately make this decision if you know what the risks are. A highlight to point out is that you do not need to make the decision now. Most likely you wont have to make it anytime soon. You can start saving now and retire once you feel comfortable.
+
+[^fn-cfiresim]: If you want to play around with different retirement portfolios you can try [this simulation tool][cfiresim-simulation].
+
+[cfiresim-simulation]: https://cfiresim.com/
 
 Using the 4% rule we can now calculate how big we want our portfolio to be before we can retire.
 
@@ -393,7 +409,7 @@ Let's say our annual spending is 100. We can see that:
 100 * 25 * 4% = 2500 * 4% = 100.
 {% endhighlight %}
 
-If we save 2500 we get to withdraw 100 under the 4% rule. So 2500 would be enough to satisfy our spending using a 4% withdrawal. 
+If we save 2500 we get to withdraw 100 under the 4% rule. So 2500 would be enough to satisfy our spending using a 4% withdrawal strategy. 
 
 You don't really need to remember all of this. The important point is that withdrawal rate, retirement portfolio value, and annual spending are linked together and from the withdrawal rate you can easily compute your retirement portfolio requirements. For 4% you need 25 times your annual spending. For 3.5% you need 28.6 times and for 3% you need 33.33.
 
@@ -411,25 +427,27 @@ And we use our new retirement estimates under the 4% rule we get:
 - At a savings rate of 50%, it takes (((1-0.5)/0.5)*25 = 25 years to retire.
 - At a savings rate of 75%, it takes ((1-0.75)/0.75)*25 = 8 years and 4 months to retire.
 
-At this point it should be quite clear how much of an impart the _savings rate_ has. But the numbers are of course off. A common savings rate suggestion in the general population is around 20%. But with that it would take more than 75 years to retire using these calculations. And while we work most of our lives, few of us expect to work for 75 years.
+At this point it should be quite clear how much of an impart the _savings rate_ has. But you may also suspect the numbers are a bit off. A common savings rate suggestion in the general population is around 20%. But with that it would take more than 75 years to retire using these calculations. And while we work most of our lives, few of us expect to work 75 years.
 
-What we are missing is the fact that over the savings period, be it 225 years or 8, we have another factor to consider: time. And using time to our advantage we can make the money work for us by investing it. But before we consider the implications of time, let's just look at the numbers once more and observe that even without investing a single dollar, it is possible to save enough for retirement in just over 8 years[^fn-time-and-inflation]. In fact, Jacob Lund Fisker from [Early Retirement Extreme](https://earlyretirementextreme.com/) notes that for extreme savers, investing is not what will grant them financial independence:
+What we are missing is the fact that over the savings period, be it 225 years or 8, we have another factor to consider---time. And using time to our advantage we can make our money work for us by investing it. But before we consider the implications of time, let's just look at the numbers once more and observe that even without investing a single dollar, it is possible to save enough for retirement in just over 8 years.[^fn-time-and-inflation] In fact, Jacob Lund Fisker from [Early Retirement Extreme](https://earlyretirementextreme.com/) notes that for extreme savers, compounding is not what will grant them financial independence:
 
-[^fn-time-and-inflation]: As these numbers do not consider time they don't take into account inflation either. Time can work in our favor with profitable investments, but it can also work against us if we keep our money under our mattress. If we assume we are able to keep the savings rate while accounting for inflation (prices will increase but so will our salary) and that we invest our money in a way that stays level with with inflation, the numbers still hold up though. It should also be noted that to stay retired we need to invest our money or else 25 times our annual spending will be gone in 25 years.
+[^fn-time-and-inflation]: As these numbers do not consider time they don't take into account inflation either. Time can work in our favor with profitable investments, but it can also work against us if we keep our money under our mattress. If we assume we are able to keep the savings rate while accounting for inflation (prices will increase but so will our salary) and that we invest our money in a way that stays level with with inflation, the numbers still hold up though. It should also be noted that to stay retired we need to invest our money in a way that beats inflation or else 25 times our annual spending will be gone in 25 years.
 
 > There is simply not enough time for compounding to make much of a difference. Instead compounding becomes somewhat irrelevant as the eventual portfolio becomes more focused on preserving principal, generating income, and not suffering too much in terms of inflation and taxes. - [How I became financially independent in 5 years](http://earlyretirementextreme.com/how-i-became-financially-independent-in-5-years-part-i.html)
 
-While time does not matter much for extreme savers, it will for most of us. I don't expect to be financial independent in 5 years. And even if I did, I would have to maintain my portfolio for a long time to stay independent. So let's talk about time.
+While time does not matter as much for extreme savers, it will for most of us. I don't expect to be financial independent in 5 years. And even if I did, I would have to maintain my portfolio for a long time to stay independent. So let's talk about time.
 
-The two opposing forces we'll meet are _inflation_ and _return on investment (ROI)_. Inflation reduces the value of our money by increasing prices. Yesterday a banana was $1. Today it is $2. Big time inflation and I can suddenly only afford half of the bananas I could yesterday. Return of investment is what we expect to get when we invest our money. We can invest in companies and thereby receive returns from future profits. Or we can invest in a house and rent it out. Or we can invest in gold, bitcoin, or pretty much anything at this point[^fn-invest-in-anything]. The point is to grow our portfolio in some way without working too much to do so.
+The two opposing forces we'll meet are _inflation_ and _return on investment (ROI)_. Inflation reduces the value of our money by increasing prices. Yesterday a banana was $1. Today it is $2. Big time inflation and I can suddenly only afford half of the bananas I could yesterday. Return of investment is what we expect to get when we invest our money. We can invest in companies and thereby receive returns from future profits. Or we can invest in a house and rent it out. Or we can speculate in gold, bitcoin, or pretty much anything at this point.[^fn-invest-in-anything] The point is to grow our portfolio in some way without working too much to do so.
 
 [^fn-invest-in-anything]: Not that I recommend doing this.
 
-Of course inflation and investment are much more complicated than this. But I don't have a degree in Economics and I don't expect you have one either. So I'll keep it more or less at this level. I do think it is valuable to learn more about economics but you'll have to do so elsewhere.
+Inflation and investing are powerful forces and much more complicated than this. But I don't have a degree in Economics and I don't expect you have one either. So I'll keep it more or less at this level. I do think it is valuable to learn more about economics but you'll have to do so elsewhere.
 
-So. Inflation and ROI. Let's do some back-of-the-envelope calculations. (footnote: do not rely on these computations for anything important. Go to the sources I have mentioned instead and even there be sceptic what you use the numbers for.) 
+So. Inflation and ROI. Let's do some back-of-the-envelope calculations.
 
-The [average inflation from 1957 to 2018 was 3.8%](https://data.bls.gov/timeseries/CUUR0000SA0). And the average annual return for [S&P500 in the same period was 8%](https://www.investopedia.com/ask/answers/042415/what-average-annual-return-sp-500.asp). 
+The average inflation measured by the [Consumer Price Index (CPI)][consumer-price-index] from [1957 to 2018 was 3.8%](https://data.bls.gov/timeseries/CUUR0000SA0). And the average annual return for [S&P500 in the same period was 8%](https://www.investopedia.com/ask/answers/042415/what-average-annual-return-sp-500.asp).
+
+[consumer-price-index]: https://www.investopedia.com/terms/c/consumerpriceindex.asp
 
 Computing the [Inflation-adjusted return](https://www.investopedia.com/terms/i/inflation_adjusted_return.asp): 
 
@@ -443,11 +461,11 @@ Inflation-adjusted return = (1 + 0.08) / (1 + 0.038) - 1 = 0.0405
 
 Voila! Based on these historic numbers we see that our portfolio would grow on average 4% every year, adjusted for inflation. Exactly the rate at which we would withdraw (4%) leaving our portfolio intact even as we take money from it to cover our annual expenses. The actual historical average annual return, adjusted for inflation, is around [7% for the S&P500 according to Investopedia](https://www.investopedia.com/ask/answers/042415/what-average-annual-return-sp-500.asp#how-inflation-affects-sp-500-returns) and [6.12% annualized return according to moneychimp](http://www.moneychimp.com/features/market_cagr.htm). Quite a bit better than our back-of-the-envelope 4%.[^fn-back-of-envelope-warning]
 
-[^fn-back-of-envelope-warning]: This discrepancy should also give you pause. 4% vs 7% is a big difference and shows our back-of-the-envelope numbers shouldn't be blindly trusted. Even the different sources don't agree on a number. Furthermore, the way inflation is measured is also a debated topic and [critics argue it may understate the rate of inflation](https://www.investopedia.com/terms/c/consumerpriceindex.asp).
+[^fn-back-of-envelope-warning]: This discrepancy should also give you pause. 4% vs 7% is a huge difference and shows our back-of-the-envelope numbers shouldn't be blindly trusted. Even the different sources don't agree on a number. Furthermore, the way inflation is measured is also a debated topic and [critics argue it may understate the true rate of inflation][consumer-price-index].
 
-We are almost ready to go back to our running time-to-retirement question. This time with a bit more realistic numbers. But we are still missing one final factor: taxes. Unfortunately, as I have discovered while diving into the topic, taxes can be mind-boggeling complex. Right now I'm in the process of reading a 57 page guide on how to understand taxes on investing in my country. And that just covers some of the basic information I need to fill out my yearly tax form.
+We are almost ready to go back to our running time-to-retirement question. This time with a bit more realistic numbers. But we are still missing one final factor---taxes. Unfortunately, as I have discovered while diving into the topic, taxes can be mind-boggeling complex. Right now I'm in the process of reading a 57 page guide on how to understand taxes on investments in my country. And that just covers some of the very basic information I need to fill out my yearly tax form.
 
-So to come up with a tax estimate that covers most people is next to impossible. Instead I'll simply use ~ 33% and if your country differs vastly from mine you'll have to substitute with your tax estimate in the following. Fortunately we are almost done with the manual calculations.
+To come up with a tax estimate that covers most people is impossible. Instead I'll simply use ~ 33% and if your country differs vastly from mine you'll have to substitute with your tax estimate in the following. Fortunately we are almost done with the manual calculations.
 
 We now have back-of-the-envelope estimates for how time impacts our money when invested. Including inflation, returns, and taxes. Let's get back to our time-to-retirement scenario. Not accounting for time we had:
 
@@ -481,13 +499,17 @@ What if we change up the withdrawal rate?
 - At a savings rate of 50%, it takes 21.6 years to retire.
 - At a savings rate of 75%, it takes 9.4 years to retire.
 
-All the numbers are simply a big higher as we need a larger portfolio to cover our expenses if we can only withdraw 3% instead of 4%. 
+These numbers are simply a big bigger as we need a larger portfolio to cover our expenses if we can only withdraw 3% instead of 4%. 
 
-These examples hopefully demonstrate the point I opened this whole section with. That savings rate thumps everything else when it comes to quick financial freedom. We have tried changing the different numbers and accounted for most variables (although only back-of-the-envelope calculations). But changing these numbers does not make nearly as much of a difference as the savings rate does. 
+These examples hopefully demonstrate the point I opened this whole section with. That savings rate thumps everything else when it comes to quick financial freedom. We have tried changing the different numbers and accounted for most variables (although only very basic back-of-the-envelope calculations). But changing these numbers does not make nearly as much of a difference as the savings rate does.
+
+If you save 25% of your income and you increase your ROI by 1/3 you go from 35.3 years to retirement to 31. A 4.3 year difference. If you instead increase your savings rate by 1/3 to 33% you now only have 28.3 years to retirement. A 7 year difference. And as your savings rate increases that different becomes even bigger. At 50% savings rate you shave off 1.4 years by increasing the ROI but 7.1 by increasing the savings rate to 66%.
+
+Of course increasing the ROI often sounds more appealing as that does not require us to change our lifestyle. It just requires us to be smarter about our investments. But investing is hard and any increase in ROI often comes with a similar increase in risk. This section deals only with the math but we have already seen in the science section that reducing our spending may not be as bad as we think. And as we will soon see in the philosophy section it may even be desireable.
 
 I have used [this tool](https://networthify.com/calculator/earlyretirement?income=50000&initialBalance=0&expenses=16500&annualPct=5&withdrawalRate=4) to compute the final scenarios. I suggest you play around with it a bit. It gives you a good feel for how the different metrics influence your time-to-retirement. Also, on the graph you can see that the fun begins at the higher savings rates and that each percentage point matters quite at bit. 
 
-TODO: do my own scenario and enter as table or in some way on the site?
+![Time to retirement graph]({{ site.url }}/assets/images/think-week-2021/time-to-retirement-graph.png "Graph showing time to retirement from networthify.com")
 
 And there we have it. 
 
@@ -506,17 +528,17 @@ In short, the savings rate is what I will focus on. And as I continue to learn I
 
 Financial freedom is mostly about spending less money. Not about earning more. This means a smaller footprint on the world which is good for the environment. 
 
-It also ties in with ideas from Minimalism. That less is more. That being intentional with money is a good thing. That we don't need that much and that happiness does not come from acquiring more. 
+It also ties in with ideas from Minimalism. That less is more. That being intentional with money is a good thing. That we don't need much and that happiness does not come from acquiring more. 
 
 Financial freedom is about [living differently, not about downgrading][can-i-retire-young]. Science has already shown that money isn't the best way to chase happiness. There are other paths. And financial freedom is about exploring these. Instead of trading time for money, invest that time in relationships, health, creative outlets, nature, simple things, or whatever interests you.
 
-Financial freedom is about realizing that comfort won't make a good life. Bigger house, better car. Luxury hotels and A/C environments. This isn't the stuff of happiness. It's comfort and nothing more. And [comfort is the enemy](https://www.youtube.com/watch?v=LBvHI1awWaI&ab_channel=TEDxTalks).
+Financial freedom is about realizing that comfort won't make a good life. Bigger house, better car. Luxury hotels and A/C environments. This isn't the stuff of happiness. It's comfort and nothing more. And [comfort is the enemy](https://www.youtube.com/watch?v=LBvHI1awWaI&ab_channel=TEDxTalks). You shouldn't seek out comfort. You should avoid it.
 
-Another way to put this into perspective is [this post](https://www.mrmoneymustache.com/2012/09/18/is-it-convenient-would-i-enjoy-it-wrong-question/) which I found quite interesting. The premise is that most of what we want to buy is for _convenience_. I want a new lightweight tripod for my camera as the one I have is too heavy and cumbersome to use. Clearly this investment would be for convenience. (But interestingly enough I did not think of it that way before I read the post. Instead I fell for clever marketing.) But convenience does not make us happy. Hedonic adaptation shows us that. 
+Another way to put this into perspective is [this post](https://www.mrmoneymustache.com/2012/09/18/is-it-convenient-would-i-enjoy-it-wrong-question/) which I found quite interesting. The premise is that most of what we want to buy is for _convenience_. I want a new lightweight tripod for my camera as the one I have is too heavy and cumbersome to use. Clearly this investment would be for convenience. (But interestingly enough I did not think of it that way before. Instead I fell for clever marketing.) But convenience does not make us happy. Hedonic adaptation shows us that. 
 
 More illustrative---and useful as a tool---is the though experiment Mr. Money Mustache makes: take whatever convenience you desire and dial it up to the extreme. Instead of a lightweight tripod, why not a completely weightless tripod? Or even better, an entire film crew to carry all my gear. Now _that_ would be convenient. Would it make me happier? Nope.
 
-The mockery shows that convenience isn't happiness. Convenience may improve our lives, but only to a certain point. And yet we often throw our money after things to make life more convenient. If convenience was so great we'd all be spending all of our free time laying on the couch doing nothing. And we'd be happy. But we are not. Yet it is not always easy to see this when we want something. I didn't see it with the tripod. And I have many other things I want but am not sure about. I found the technique used by Mr. Money Mustache quite helpful thinking about this and maybe you will too.
+The mockery shows that convenience isn't happiness. Convenience may improve our lives, but only to a certain point. In many cases it may even make life worse. And yet we often throw our money after things to make life more convenient. If convenience was so great we'd all be spending all of our free time laying on the couch doing nothing. And we'd be happy. But we are not. Yet it is not always easy to see this when we want something. I didn't see it with the tripod. And I have many other things I want but am not sure about. I found the technique used by Mr. Money Mustache quite helpful thinking about this and maybe you will too. Convincing us that we need more is big business so we need all the tools and help we can get.
 
 Finally, [financial freedom also pairs well with Stoicism.](https://www.mrmoneymustache.com/2011/10/02/what-is-stoicism-and-how-can-it-turn-your-life-to-solid-gold/)
 
@@ -531,25 +553,25 @@ But I also recognize that this will not be easy. It is a big lifestyle change an
 
 ### Start Tracking My Expenses
 
-Right now I'm walking blindfolded. I don't know what I spend my money on so I have no idea what or where I can reduce my spending. I've made a list of some things I can immediately unsubscribe from and some bad habits I can work on. But other than that I simply don't know.
+Right now I'm walking blindfolded. I don't know what I spend my money on so I have no idea what or where I can reduce my spending. I've made a list of things I can immediately unsubscribe from and bad habits I can work on. But other than that I simply don't know.
 
-So my first action should be _learning to see_. I need to start tracking all my expenses so I know what I am spending money on. There seems to be some apps and services that can help do this but from what I have gathered they work mostly in the US. So I will go with a simple spreadsheet. I think this makes sense though as the goal is to make my spending habits so simple that they are easy to track.
+So my first action should be _learning to see_. I need to start tracking all my expenses so I know what I am spending money on. There seems to be some apps and services that can help do this but from what I have gathered they work mostly in the US. So I will go with a simple spreadsheet. I think this makes fine sense though. The goal is to make my spending habits so simple that they are easy to track.
 
 ### Financial Freedom &ne; Early Retirement
 
-I don't know if I want early retirement. Or how soon. I don't even know if it is possible with the lifestyle I want. But that does not mean I can't build more financial freedom and stability. Right now I need a pay-check every month. I have some savings but if I suddenly stopped receiving monthly income from my job I would not last too long (social security is great in my country so I would not suffer). This fact means that I do not have much financial freedom or stability. I do have some. More than I would have with no savings at all. But I still depend on my job. I want to build more financial freedom so I can depend less and less on a full time job trading time for money.
+I don't know if I want early retirement. Or how soon. I don't even know if it is possible with the lifestyle I want. But that does not mean I can't build more financial freedom and stability. Right now I need a pay-check every month. I have some savings but if I suddenly stopped receiving monthly income from my job I would not last too long with my current lifestyle (social security is great in my country so I would not suffer). This fact means that I do not have much financial freedom or stability. I do have some. More than I would have with no savings at all. But I still depend on my job. I want to build more financial freedom so I can depend less and less on a full time job trading time for money.
 
 # Curiosity
 
 During my two think weeks I read a lot of stuff that was not directly related to any of the topics I had set out to study. I read about artificial intelligence, [blockchain](http://karpathy.github.io/2021/06/21/blockchain/), [biohacking](http://karpathy.github.io/2020/06/11/biohacking-lite/), [github pages](https://pages.github.com/), [a climbing trip report from Kyrgyzstan](https://docs.google.com/document/d/1o2MOKEik3qubS1Sd4k5aWFf3dejFQHTMjYe-seAg1WI) (related [video](https://www.youtube.com/watch?v=UVOGl7wtRz4)), and much more. I also brainstormed a whole bunch of small projects I would love to do.
 
-But then I felt bad. I was using (wasting) my time on topics that were not on the list I set out to explore. And here's something about me: I only function when everything fits into the bigger picture. If I'm working on a project or reading about something, I need to be able to explain myself why. And usually I solve that by putting the activity into a category. If I'm running I'm doing it for my health, fitness, and often to clear my head. If I'm journaling in the morning I'm doing it for personal growth. When I'm going to work I do it for money and fulfillment. 
+But then I felt bad. I was using (wasting) my time on topics that were not on the list I set out to explore. And here's something you should know about me---I only function when everything fits into the bigger picture. If I'm working on a project or reading about something, I need to be able to explain myself why. And usually I solve that by putting all activities into categories. If I'm running I'm doing it for my health, fitness, and often to clear my head. If I'm journaling in the morning I'm doing it for personal growth. When I'm going to work I do it for money and fulfillment. 
 
 And now I had all these different categories that did not fit into my bigger picture. I'm not going to write or create videos about blockchain. And I'm not going to develop anything on it either. So why bother? 
 
 Because something inside me wanted to. And that something was _curiosity_.
 
-As I though more about my conflicting feelings I realized what was driving me. I was curious about artificial intelligence and blockchain, even if I knew that I would not use that knowledge for anything specific. But I now had my category. _Curiosity._ I could put smaller topics and projects under this umbrella and it would silence the voice telling me I was wasting my time. My next question: is curiosity worth pursuing?
+As I though more about my conflicting feelings I realized what was driving me. I was curious about artificial intelligence and blockchain technology, even if I knew that I would not use that knowledge for anything specific. But I now had my category. _Curiosity._ I could put smaller topics and projects under this umbrella and it would silence the voice telling me I was wasting my time. My next question---was curiosity worth pursuing?
 
 Turns out the answer is yes. Big yes.
 
@@ -561,9 +583,9 @@ These are just some of the benefits mentioned in the curiosity series. But as I 
 
 I have been practicing curiosity for years with the books I read. My topics are all over the place and I never feel guilty picking up a book unrelated to anything I do. In fact I feel good about that. Excited. And I have anecdotal evidence that it is indeed beneficial. Books inspire, motivate, challenge, and inform me (and much more). 
 
-[The Artist's Way](https://www.goodreads.com/book/show/615570.The_Artist_s_Way) describes a method called The Artist Date that creatives can use to help fill up their creative wells. A Date for you and your inner artist. Time set aside to do whatever we want, no strings attached. If this isn't a call for curiosity I don't know what is. Simply set time aside to be curious and soon you will see your creativity improve (and as we have seen, this theory is indeed backed by science). 
+[The Artist's Way](https://www.goodreads.com/book/show/615570.The_Artist_s_Way) describes a method called The Artist Date that creatives can use to help fill up their inner creative wells. A date for you and your inner artist. Time set aside to do whatever we want, no strings attached. If this isn't a call for curiosity I don't know what is. Simply set time aside to be curious and soon you will see your creativity improve (and as we have seen, this theory is indeed backed by science). 
 
-I was also reminded of a podcast I recently watched (I guess you watch a podcast if it has video also, or?) that had a short section about curiosity. This view was a much broader appreciation for curiosity. Not just as a simple tool to boost creativity or make office workers more profitable for corporations. Curiosity is more than that. So much so that I feel almost embarrassed to have questioned it. Curiosity is what makes life interesting. Makes it worth living even. There are so many wonders in this world. So many things to be awed by. But to experience any of this we need to be open and prepared to receive it. We need to give ourselves permission to look around and ask _why_. 
+I was also reminded of [a recent Rich Roll podcast](https://www.youtube.com/watch?v=wCdnh0FSigs&t=6862s) that had a short section about curiosity. This view was a much broader appreciation for curiosity. Not just as a simple tool to boost creativity or make office workers more profitable for corporations. Curiosity is more than that. So much so that I feel almost embarrassed to have questioned it. Curiosity is what makes life interesting. Makes it worth living even. There are so many wonders in this world. So many things to be awed by. But to experience any of this we need to be open and prepared to receive it. We need to give ourselves permission to look around and ask _why_. 
 
 TODO: find podcast mentioned here and see if I have the correct interpretation of it
 
@@ -576,7 +598,7 @@ So here are some things I will focus on:
 
 - Stay curious with the books I read. This is an area where I'm doing well. I read whatever I find interesting and have no issue with that.
 - Be curious online. Whenever I find something interesting i often save it to my [Pocket](https://getpocket.com/). That is one piece of the puzzle. But I also need to give myself permission to browser through the Pocket list and read the things I save.
-- Be curious at work. Ask questions. Sometimes I'm curious at work but at times I also put my head down and work on what is in front of me. Being focused is good but I also want to stay curious. It will benefit me in the long run.
+- Be curious at work. Ask questions. Sometimes I'm curious but at times I also put my head down and work on what is in front of me. Being focused is good but I also want to stay curious. It will benefit me in the long run.
 - Set time aside for simple curiosity. I did this the last two weeks and it was great.
 
 # Create
@@ -585,7 +607,7 @@ So here are some things I will focus on:
 
 Over the last 3 years I have published 87 videos to YouTube. I like that. I love creating these and I can definitely see progress from my first videos to my latest ones. I still have a (very) long way to go but I'm ready to make videos for someone other than myself. At least I'm ready to try.
 
-I have a mantra for my video creation process. _"I want to create something that makes me proud."_ Whenever I'm in despair or feel pulled towards other motives (money, popularity, ego), I come back to this. It has helped me a great deal and motivated me to continue learning and producing even though I know most likely nobody will watch the hours of video I have created.
+I have a personal mantra for my video creation process. _"I want to create something that makes me proud."_ Whenever I'm in despair or feel pulled towards other motives (money, popularity, ego), I come back to this. It has helped me a great deal and motivated me to continue learning and producing even though I know most likely nobody will watch the hours of video I have created.
 
 I have enjoyed creating videos for myself. But creative work is to be shared. I'll never make a change in the world if nobody sees what I create.
 
@@ -607,7 +629,7 @@ Hopefully this will guide me and help me get feedback so I can learn to create f
 
 > "The path forward is about curiosity, generosity, and connection. These are the three foundations of art." - Seth Godin in [The Practice][seth-godin-practice].
 
-Reading this made me even more excited about curiosity. It means I have addressed the two first foundations. Now the third:
+Reading this made me even more excited about curiosity. I have addressed the two first foundations. Now the third:
 
 # Relationships and Community
 
@@ -617,7 +639,7 @@ I'm an expert at being alone. Two weeks on my own in a foreign country is nothin
 
 I have a few close friendships. I truly value these and want to strengthen them. Same goes for my loving family. It is something I often forget or neglect. It is so easy to take for granted. I don't want that. I want to be grateful instead.
 
-One area where I lack more is community. I'm part of a community at work. And I have a few weak ties to other communities. But that is not a lot. I would love to have more communal experiences. A sense of belonging.
+One area where I lack more is community. I'm part of a community at work. And I have a few weak ties to other communities. But that is not a lot. I would love to have more communal experiences. A stronger sense of belonging.
 
 ## Moving Forward
 
@@ -625,24 +647,26 @@ I believe strengthening relationships and building new ones is all about one thi
 
 Therefore I want to invest in my friendships and family. Some things I want to focus on:
 
-- Reach out and plan things. The first and easiest investment is reaching out and planning something. After that is is almost just showing up and being present. But showing up and being present is harder than it sounds. So this is worth paying attention to.
-- Set time, energy, and money aside for it. Relationships are only going to grow if I'm prepared to invest in them. Show up depleted and no growth will happen.
-- Schedule it in my calendar. A small thing but still important. In the past I have not been good at scheduling or planning things. But if I want to balance relationships with all my other goals I need a stronger calendar game. 
+- Reach out and plan things. The first and easiest investment is reaching out and planning something. After that it is almost just showing up and being present. But showing up and being present is harder than it sounds. So this is also worth paying attention to.
+- Set time, energy, and money aside. Relationships are only going to grow if I'm prepared to invest in them. Show up depleted and no growth will happen.
+- Schedule it in my calendar. A small but important thing. In the past I have not been good at scheduling or planning things. But if I want to balance relationships with all my other goals I need a stronger calendar game. 
 
-I also want to invest in new communities. One place to do so online is [reddit](https://www.reddit.com/). A quick search revealed more than 10+ communities I would love to be part of[^fn-reddit-communities]. Online communities may not provide the full experience that offline communities can offer. But they have other upsides and I still believe being part of an online community can be rewarding. And for someone with a bit of social anxiety it is a lot easier to get started.
+I also want to invest in new communities. One place to do so online is [reddit](https://www.reddit.com/). A quick search revealed more than 10+ communities I would love to be part of.[^fn-reddit-communities] I know some of the bigger communities can be a bit toxic at times. But if I steer clear of that I believe it is possible to find good communal experiences.
+
+Online communities may not provide the full experience that offline communities can offer. But they have other upsides and I still believe being part of an online community can be rewarding. And for someone with a bit of social anxiety it is a lot easier to get started.
 
 [^fn-reddit-communities]: My biggest concern is that some reddit communities are too superficial. The study on happiness emphasized strong connections and I'm not sure a site like reddit is built for that. But I'll give it a try. I also have some other online ideas with smaller communities I may try out.
 
 # The Future
 
-I can't control the future. But I can control what I focus on. I have sketched out five such areas. They don't cover everything in my life but they touch what I believe is important: health, relationships, creativity, work, adventure, and philosophy of life.
+I can't control the future. But I can control what I focus on. I have sketched out five such areas. They don't cover everything in my life but they touch what I believe is important---health, relationships, creativity, work, adventure, and philosophy of life.
 
-My task is now to live up to this memo. The best I can. I know I will fall short on many occasions but I also believe I have what it takes to get back up. I'm excited for the future and I'm already living and breathing the words written on this page.
+My task is now to live up to this memo. The best I can. I know I will fall short on many occasions. But I also have what it takes to get back up. I'm excited for the future and I'm already living and breathing the words written on this page.
 
-This is my memo. Now it is your turn. You don't have to go to Germany for two weeks alone. But you do need to set time aside to think, read, and write without distractions. This isn't something you can do while Netflix is running in the background. Get away for a bit if possible. Slow down. Then think about what it is you want with your life. Not an easy question. But an important one.
+This is my memo. I hope it inspired you in some way. Now it is your turn. You don't have to go to Germany for two weeks alone. But you do need to set time aside to think, read, and write without distractions. This isn't something you can do while Netflix is running in the background. Get away for a bit if possible. Slow down. Then think about what it is you want with your life. Not an easy question. But an important one.
 
 _16-29 Oct 2021. Mittenwald, Germany._[^fn-memo-dates]
 
-![Me in Mittenwald Airbnb]({{ site.baseurl }}/assets/images/think-week-2021/20211016_183607.jpg "Me in Mittenwald Airbnb")
+![Me in Mittenwald Airbnb]({{ site.url }}/assets/images/think-week-2021/20211016_183607.jpg "Me in Mittenwald Airbnb")
 
-[^fn-memo-dates]: The ideas in this post were all hatched during my two think weeks. The distraction free environment and the freedom I had was amazing. I did most of the writing during this period too. But refining everything took quite a while so I spent weeks after coming home doing this.
+[^fn-memo-dates]: I developed all the ideas in this post during my two think weeks. The distraction free environment and the freedom I had was absolutely amazing. I did a large part of the writing during this period too. But refining everything took quite a while so I spent weeks after coming home doing this.
