@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Think Week 2021"
-date:   2021-10-23 16:43:00 +0200
-categories: blog
+date:   2021-11-01 12:00:00 +0200 # TODO : change date
 ---
 
 At the end of October I stayed two weeks in a small town in Bavaria, Germany. I spent those 14 days living the simple life: I read, wrote, and hiked the nearby mountains with my camera.
 
 The trip was inspired by Bill Gates. In 1995, he wrote a historic memo called [The Internet Tidal Wave](https://lettersofnote.com/2011/07/22/the-internet-tidal-wave/). It analyzed the future of the internet and predicted it would change the way we use computers. That tidal wave is now long gone and others have since swept over us. But the contents of the document is not what interests me the most. It is how the document was formed. 
+
+<!--more-->
 
 Allegedly it was written during one of Bill Gates's _think weeks_. A week set aside to think without distractions. Gates would go on these twice a year to disconnect from daily life and work on tough problems.
 
@@ -25,7 +26,7 @@ Here it goes.
 
 To: Whom It May Concern<br>
 From: Me<br>
-Date: XXXXX TODO
+Date: 1 Dec 2021
 
 # The Future of Me Inc
 Objectively speaking I have more than I need. I have a place to live and work that pays the bills. I have good health, enough spare time that I'm able to write this, and I never fear for my life. My life is good. 
@@ -587,8 +588,6 @@ I have been practicing curiosity for years with the books I read. My topics are 
 
 I was also reminded of [a recent Rich Roll podcast](https://www.youtube.com/watch?v=wCdnh0FSigs&t=6862s) that had a short section about curiosity. This view was a much broader appreciation for curiosity. Not just as a simple tool to boost creativity or make office workers more profitable for corporations. Curiosity is more than that. So much so that I feel almost embarrassed to have questioned it. Curiosity is what makes life interesting. Makes it worth living even. There are so many wonders in this world. So many things to be awed by. But to experience any of this we need to be open and prepared to receive it. We need to give ourselves permission to look around and ask _why_. 
 
-TODO: find podcast mentioned here and see if I have the correct interpretation of it
-
 
 ## How to Spark My Curiosity
 
@@ -633,7 +632,7 @@ Reading this made me even more excited about curiosity. I have addressed the two
 
 # Relationships and Community
 
-Relationships are cornerstones to a good life. Just see [the longest study on happiness](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness) for some scientific evidence. TODO watch ted
+Relationships are essential to a good life. Just see [the longest study on happiness](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness) for some scientific evidence.
 
 I'm an expert at being alone. Two weeks on my own in a foreign country is nothing to me. Alone in the woods a cold, dark winter night? [Love it](https://www.youtube.com/watch?v=FqveQjPQkN0). But I also cherish being with other people. I just don't need it as often. And it is not how I build up energy. I do that alone. And when I'm recharged I love to spend that energy with friends and family. In short, I'm an introvert.
 

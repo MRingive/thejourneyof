@@ -4,7 +4,7 @@ tagline: me
 url: https://mringive.github.io/thejourneyof
 paginate: 1
 baseurl: "thejourneyof"
-permalink: pretty
+permalink: /:title/
 
 # Gems
 plugins:
@@ -33,9 +33,12 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
+  name: Mathias R
   url: https://twitter.com/mdo
   email: markdotto@gmail.com
 
 # Custom vars
 version: 3.0.0
+
+# Excerpt
+excerpt_separator: <!--more-->
