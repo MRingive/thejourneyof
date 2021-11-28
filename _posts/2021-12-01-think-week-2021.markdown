@@ -277,47 +277,47 @@ The following table from Appendix B shows the _"Effects on life evaluation of ea
 <tbody>
   <tr>
     <td>Individual unemployment (versus employment)</td>
-    <td>-6.0</td>
+    <td>- 6.0</td>
   </tr>
   <tr>
     <td>Unemployment rate (10% point increase)</td>
-    <td>-1.3</td>
+    <td>- 1.3</td>
   </tr>
   <tr>
     <td>Social support (10% point extra saying yes)</td>
-    <td>4.5</td>
+    <td>+ 4.5</td>
   </tr>
   <tr>
     <td>Freedom (10% point extra saying yes)</td>
-    <td>2.1</td>
+    <td>+ 2.1</td>
   </tr>
   <tr>
     <td>Corruption (10% point extra saying yes)</td>
-    <td>1.9</td>
+    <td>+ 1.9</td>
   </tr>
   <tr>
     <td>Malaise 8 years earlier (1 standard deviation worse)</td>
-    <td>-10</td>
+    <td>- 10.0</td>
   </tr>
   <tr>
     <td>Physical health (Poor versus good, self-assessed)</td>
-    <td>-15</td>
+    <td>- 15.0</td>
   </tr>
   <tr>
     <td>Single (versus married)</td>
-    <td>-2.2</td>
+    <td>- 2.2</td>
   </tr>
   <tr>
     <td>Separated (versus married)</td>
-    <td>-4.0</td>
+    <td>- 4.0</td>
   </tr>
   <tr>
     <td>Widowed (versus married)</td>
-    <td>-2.9</td>
+    <td>- 2.9</td>
   </tr>
   <tr>
     <td>Female (versus male)</td>
-    <td>1.5</td>
+    <td>+ 1.5</td>
   </tr>
 </tbody>
 </table>
