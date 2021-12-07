@@ -1,13 +1,10 @@
 ---
-layout: post
+layout: ff-update
 title:  "Month One"
-date:   2021-12-04 06:00:00 +0200
+date:   2021-12-07 06:00:00 +0200
+category: financial-freedom-update
+hidden: true
 ---
-
-This is a **Financial Freedom Update** post. Each month I report the status of my journey towards more financial freedom and reflect on my progress. To learn more about financial freedom please see my [Think Week 2021][think-week-post] post where it all started.
-{: .message }
-
-[think-week-post]: {% post_url 2021-12-01-think-week-2021 %}
 
 Month one. Day one. T-0.
 
@@ -46,6 +43,8 @@ The vast majority on my expenses this month (and most months) went towards rent.
 I also spent more on food than I wanted to. Recently I have started focusing much more on plant based foods and so there are lots of things I can do here to save. Right now my focus is on shifting my nutritional habits and then I'm hoping to optimize the cost later. It may still continue to be more expensive than I want but my health comes before anything else so I wont cut corners here.
 
 I spent a good deal more on transportation than expected. I don't own a car and can often get away with spending very little on transport. But not this month. Most of the expenses are from refuelling two cars. The first one is actually a delayed payment from my [October trip to Germany][think-week-post] and the other one is from borrowing a car that unfortunately broke down before I could use any of the fuel. It spent more than expected but do not regret it.
+
+[think-week-post]: {% post_url 2021-12-01-think-week-2021 %}
 
 The personal expenses are mostly spent with friends so that is how it should be.
 
