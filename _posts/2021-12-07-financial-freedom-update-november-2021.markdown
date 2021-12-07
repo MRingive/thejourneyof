@@ -8,7 +8,7 @@ hidden: true
 
 Month one. Day one. T-0.
 
-Naturally I was motivated. The first day of any new habit is always the easiest. Everything is new and exciting. Same can be said for the first month of my new "lifestyle". Overall it went well. I still have a ways to go before I'm satisfied with my spending but I did cut back on a lot of bad habits and didn't make any big decisions I regret.
+Naturally I was motivated. The first day of any new habit is always the easiest. Everything is new and exciting. Same can be said for the first month of my new "lifestyle". Overall it went well. I still have a ways to go before I'm satisfied with my spending but I did cut back on a lot of bad habits and didn't make any big purchases I regret.
 
 <!--more-->
 
@@ -18,11 +18,11 @@ Overall I saved ~ 63% of my take home pay (income after tax) this month. I'm ver
 
 However, I did not have any bigger purchases or expenses so at a glance this looks a lot like a baseline. A month with any substantial purchases or expenses will be worse than this. But then again, looking over the transactions I can find more than 9% that are not usual expenses or strictly needed. Those 9% won't been in the December report, but something else will likely replace it.
 
-When I first looked at my November expenses I accepted almost everything.[^fn-soft-on-myself] But I was cautious---it seemed like I had spent this month at home without any real expenses. But when I look closer I do find spending here and there. So after more careful reflection I'm actually more optimistic than I was at first. Even when saving 63% of my income I have room to breathe---I just have to look a bit more carefully to find it. Which I'm clearly not used. I'm more used to buying without a second though.
+When I first looked at my November expenses I accepted almost everything.[^fn-soft-on-myself] But I was cautious---it seemed like I had spent this month at home without any real expenses. But when I look closer I do find spending here and there. So after more careful reflection I'm actually more optimistic than I was at first. Even when saving 63% of my income I have room to breathe---I just have to look closer to find it. Which I'm clearly not used to. I'm more used to buying without a second though.
 
 [^fn-soft-on-myself]: Probably a sign I'm a bit soft on myself. But hey, it's early days and I seem to be doing alright. I'll work on it though. 
 
-Much of this is speculation. It does seem possible to keep a high savings rate and still have room for unnecessary expenses. But only time can tell how I will fare.
+Much of this is speculation. It does seem possible to keep a high savings rate and still have room for unnecessary expenses. But only time can tell how I will fare. So let's get back to this past month.
 
 Below is a breakdown of my expenses for November 2021.
 
@@ -40,17 +40,17 @@ Below is a breakdown of my expenses for November 2021.
 
 The vast majority on my expenses this month (and most months) went towards rent. I sort of knew this but now that I'm starting to look at the numbers I see it more clearly. I can save a lot of money if I find a way to reduce this cost.
 
-I also spent more on food than I wanted to. Recently I have started focusing much more on plant based foods and so there are lots of things I can do here to save. Right now my focus is on shifting my nutritional habits and then I'm hoping to optimize the cost later. It may still continue to be more expensive than I want but my health comes before anything else so I wont cut corners here.
+I also spent more on food than I wanted to. Recently I have started focusing much more on plant based foods and so there are lots of things I can do here to save. Right now my focus is on shifting my nutritional habits and then I'm hoping to optimize the cost later. It may still continue to be more expensive than I want but my health comes before anything else so I wont cut too many corners here.
 
 I spent a good deal more on transportation than expected. I don't own a car and can often get away with spending very little on transport. But not this month. Most of the expenses are from refuelling two cars. The first one is actually a delayed payment from my [October trip to Germany][think-week-post] and the other one is from borrowing a car that unfortunately broke down before I could use any of the fuel. It spent more than expected but do not regret it.
 
 [think-week-post]: {% post_url 2021-12-01-think-week-2021 %}
 
-The personal expenses are mostly spent with friends so that is how it should be.
+The personal expenses are mostly spent with friends so that is how it should be. I only regret one personal purchase that was not worth it---but it was a very small expense so I take it as a cheap learning experience.
 
 # The Subscription Purge
 
-The first thing I did this month was cancel a lot of subscriptions. Honestly I'm a bit amazed a how many small monthly and yearly payments I was making. I cancelled 10 or so subscriptions in total. Most of them small but also a few rather large payments. The recurring payments were for everything from an old website hosting plan to an active Adobe video/photo subscription.
+The first thing I did this month was cancel a lot of subscriptions. Honestly I'm amazed a how many small monthly and yearly payments I was making. I cancelled 10 or so subscriptions in total. Most of them small but also a few rather large payments. The recurring payments were for everything from an old website hosting plan to an active Adobe video/photo subscription.
 
 Here are some of the plans I cancelled (or at least paused):[^fn-subscription-cancel]
 
@@ -60,7 +60,7 @@ Here are some of the plans I cancelled (or at least paused):[^fn-subscription-ca
 
 - **GoPro.** I liked the idea of automatic cloud backup for all my GoPro videos. But I do my own backups of all video material so I don't need this.
 
-- **Audible.** I enjoy audiobooks but I can't keep up with the monthly subscription. With Audible you get a credit to use on any book every month. I have 2 unused credits right now and several books I have not started.
+- **Audible.** I enjoy audiobooks but I can't keep up with the monthly subscription. With Audible you get a credit every month to use on any book. I have 2 unused credits right now and several books I have not started.
 
 - **Adobe Premiere Pro and Lightroom.** I use Premiere Pro for my video editing and so this one I may end up missing. But the monthly fee is rather large and there are other alternatives.
 
@@ -83,7 +83,7 @@ I still have subscription plans with payments every month or year. I want to. Th
 
 I read every day. And I used to satisfy this desire by buying new books whenever I wanted to. Which was often. But this is clearly an area where I can save money as there is a good, simple alternative---the public library. 
 
-This month I visited the main public library in my city for the first time. And it was great. I found three books to borrow and the I loved the vibe at the library. Sure, one-click checkout on my Kindle is easier but I actually enjoyed the experience of going to library.
+This month I visited the main public library in my city for the first time. And it was great. I found three books to borrow and I loved the library vibe. Sure, one-click checkout on my Kindle is easier but I actually enjoyed the experience of going out to find my books.
 
 I also borrowed and read another book online. So in total I saved buying four new books this month. All thanks to the public library. 
 
@@ -95,6 +95,6 @@ But while I have decided to significantly reduce my overall expenses, each membe
 
 _Happy holidays._
 
-P.S. I realized this post ended on a less than cheerful note. I do enjoy the holidays and I hope you will too. The cozy winter days with snow and freezing temperatures outside, the colorful bright lights that light up the dark, going back to my hometown to see old friends and family. All that is great. And mostly free. Sincerely, have a great December.
+P.S. I realized this post ended on a less than cheerful note. I do enjoy the holidays and I hope you will too. The cozy winter days with snow and freezing temperatures outside, the colorful bright lights that light up the dark, going back to my hometown, seeing old friends and family. All great. And mostly free. Sincerely, have a great December.
 
 
