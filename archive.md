@@ -3,7 +3,7 @@ layout: default
 title: Archive
 ---
 
-# Archive
+# All Posts
 
 Browse all posts by month and year.
 
