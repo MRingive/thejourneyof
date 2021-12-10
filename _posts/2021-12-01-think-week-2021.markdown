@@ -237,7 +237,7 @@ Emotional well-being stops rising at an annual income of ~$75,000, according to 
 
 [killingsworth-paper]: https://www.pnas.org/content/118/4/e2016976118.short
 
-[^fn-killingsworth-paper]: The [Killingsworth paper][killingsworth-paper] has a number of other interesting observations and speculations as to why income is correlated with well-being. Having control over ones life accounted for 74% of the association between income and experienced well-being. This suggests that control may be related to well-being and that money may buy such control. Another interesting finding was that time poverty increased with income. High income earners generally felt more rushed than low income earners. The data also showed that time poverty negatively affected the relationship between income and experienced well-being. High income households still had a higher experienced well-being, but those not in a hurry had a steeper association.
+[^fn-killingsworth-paper]: The [Killingsworth paper][killingsworth-paper] has a number of other interesting observations and speculations as to why income is correlated with well-being. Having control over one's life accounted for 74% of the association between income and experienced well-being. This suggests that control may be related to well-being and that money may buy such control. Another interesting finding was that time poverty increased with income. High-income earners generally felt more rushed than low-income earners. The data also showed that time poverty negatively affected the relationship between income and experienced well-being. High-income households still had higher experienced well-being, but those not in a hurry had a steeper association.
 
 #### Just Happiness
 
@@ -378,7 +378,7 @@ The Trinity Study suggests 4%. But it is by no means a guarantee. High success r
 
 I'm not going to argue for or against the rule. There are already much smarter people doing that and I suggest you read some of their arguments. To some extent it comes down to personal preferences, especially risk aversion.[^fn-4-percent-guideline-personal-preferences] But to have a starting point I'll use 4% in the following calculations. The same principles apply to a 3.5%, 3%, or any other withdrawal rate. The time horizon will simply be longer for smaller rates and shorter for larger ones.[^fn-cfiresim]
 
-[^fn-4-percent-guideline-personal-preferences]: While it may come down to personal preferences, it is still a very good idea to be informed and consider the different arguments. You may believe you are okay with the risk involved in e.g., a 5% withdrawal rate. But you can only accurately make this decision if you know what the risks are. A highlight to point out is that we do not need to make the decision now. Most likely we wont have to make it anytime soon. We can start saving now and retire once we feel comfortable.
+[^fn-4-percent-guideline-personal-preferences]: While it may come down to personal preferences, it is still a very good idea to be informed and consider the different arguments. You may believe you are okay with the risk involved in e.g., a 5% withdrawal rate. But you can only accurately make this decision if you know what the risks are. A highlight to point out is that we do not need to make the decision now. Most likely we won't have to make it anytime soon. We can start saving now and retire once we feel comfortable.
 
 [^fn-cfiresim]: If you want to play around with different retirement portfolios you can try [this simulation tool][cfiresim-simulation].
 
@@ -442,7 +442,7 @@ At this point it should be quite clear how much of an impact the _savings rate_ 
 
 What we are missing is the fact that over the savings period, be it 225 years or 8, we have another factor to consider---time. And using time to our advantage we can make our money work for us. We can invest and reap the benefits of compounding. But before we consider the implications of time, let's just look at the numbers once more and observe that even without investing a single dollar, it is possible to save enough for retirement in less than 9 years.[^fn-time-and-inflation] In fact, Jacob Lund Fisker from [Early Retirement Extreme](https://earlyretirementextreme.com/) notes that for extreme savers, compounding is not what will grant them financial independence:
 
-[^fn-time-and-inflation]: As these numbers do not consider time they don't take into account inflation either. Time can work in our favor with profitable investments, but it can also work against us if we keep our money under our mattresses. If we assume we are able to keep the savings rate while accounting for inflation (prices will increase but so will our salary) and that we invest our money in a way that stays level with with inflation, the numbers still hold up. It should be noted that to stay retired we need to invest our money in a way that beats inflation. Otherwise 25 times our annual spending will be gone in 25 years.
+[^fn-time-and-inflation]: As these numbers do not consider time they don't take into account inflation either. Time can work in our favor with profitable investments, but it can also work against us if we keep our money under our mattresses. If we assume we are able to keep the savings rate while accounting for inflation (prices will increase but so will our salary) and that we invest our money in a way that stays level with inflation, the numbers still hold up. It should be noted that to stay retired we need to invest our money in a way that beats inflation. Otherwise 25 times our annual spending will be gone in 25 years.
 
 > There is simply not enough time for compounding to make much of a difference. Instead compounding becomes somewhat irrelevant as the eventual portfolio becomes more focused on preserving principal, generating income, and not suffering too much in terms of inflation and taxes. - [How I became financially independent in 5 years](http://earlyretirementextreme.com/how-i-became-financially-independent-in-5-years-part-i.html)
 
@@ -461,7 +461,7 @@ The average inflation measured by the [Consumer Price Index (CPI)][consumer-pric
 [consumer-price-index]: https://www.investopedia.com/terms/c/consumerpriceindex.asp
 [cpi-u]: https://data.bls.gov/timeseries/CUUR0000SA0
 
-[^fn-cpi-u]: Technically [my data][cpi-u] is from one of two CPIs reported in the U.S. It is from the CPI for All Urban Consumers (CPI-U). According to [Investopedia][consumer-price-index] this accounts for 88% if the U.S. population. The other reported CPI, the CPI for Urban Wage Earners and Clerical Workers (CPI-W) accounts for at least 28% of the population. As the CPI-U best accounts for the general public I'll use that.
+[^fn-cpi-u]: Technically [my data][cpi-u] is from one of two CPIs reported in the U.S. It is from the CPI for All Urban Consumers (CPI-U). According to [Investopedia][consumer-price-index] this accounts for 88% of the U.S. population. The other reported CPI, the CPI for Urban Wage Earners and Clerical Workers (CPI-W) accounts for at least 28% of the population. As the CPI-U best accounts for the general public I'll use that.
 
 Computing the [Inflation-adjusted return](https://www.investopedia.com/terms/i/inflation_adjusted_return.asp): 
 
@@ -687,4 +687,4 @@ _16-29 Oct 2021. Mittenwald, Germany._[^fn-memo-dates]
 
 ![Me in Mittenwald Airbnb]({{ site.url }}/assets/images/think-week-2021/20211016_183607.jpg "Me in Mittenwald Airbnb")
 
-[^fn-memo-dates]: I developed all the ideas for this post during my two think weeks. The distraction free environment and the freedom I had was absolutely amazing. I did a large part of the writing during this period too. But refining everything took quite a while so I spent a few weeks after coming home doing this.
+[^fn-memo-dates]: I developed all the ideas for this post during my two think weeks. The distraction-free environment and the freedom I had was absolutely amazing. I did a large part of the writing during this period too. But refining everything took quite a while so I spent a few weeks after coming home doing this.
