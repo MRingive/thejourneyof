@@ -10,7 +10,7 @@ My January expense sheet has fewer entries than December and so it must have bee
 
 <!--more-->
 
-I spent one weekend backpacking, another one coding a new project. One weekend I was at a party with friends, another one I had friends over for dinner. I spent time with family and with myself in deep though. 
+I spent one weekend backpacking, another one coding a new project. One weekend I was at a party with friends, another one I had friends over for dinner. I spent time with family and with myself in deep thought. 
 
 I even spent an entire week working from a beach house. Granted the weather was grey and stormy so not exactly a tropical vacation experience. Quite the opposite---a storm hit Denmark during the weekend I was at the house and more or less kept me inside for two days.
 
@@ -18,7 +18,7 @@ I even spent an entire week working from a beach house. Granted the weather was 
 
 I saved 64% of my income in January. 
 
-I don't have much to complain about on that account. I did order take out once but it was after my backpacking journey. 50 km in ~ 24 hours with freezing temperatures at night. So I feel like that was deserved. 
+I don't have much to complain about on that account. I did order take-out once but it was after my backpacking journey. 50 km in ~ 24 hours with freezing temperatures at night. So I feel like that was deserved. 
 
 | Category       | Percentage of expenses |
 |----------------|------------------------|
