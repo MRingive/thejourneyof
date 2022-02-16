@@ -89,7 +89,7 @@ Instead I was calm knowing that I had to stay for two weeks. And I think there i
 
 ## The weather
 
-SUN IMAGE?
+{% picture /assets/images/trip-report/mittenwald/sun-in-the-mountains.jpg class="full-width" %}
 
 I saw the sun pretty much every day. I had expected---and packed for---rain and wind so this was way above my expectations. I was lucky.
 
@@ -102,6 +102,8 @@ Mittenwald looked like a cozy town. And the surrounding area looked like a nice 
 I didn't look up tourist attractions nearby or plan out a ton of stuff to do and see. And so I just went with what was outside my door. That way I reduced my FOMO and instead enjoyed slowing down. 
 
 (I couldn't completely eliminate my FOMO though. I enjoyed the nearby area so much that I hiked it a lot. But at some point I also started to feel like I should go elsewhere and see other sights. I planned and schemed a bit but didn't make too much of it.)
+
+{% picture /assets/images/trip-report/mittenwald/mittenwald-sunset.jpg class="full-width" %}
 
 # What Went Wrong
 
@@ -117,9 +119,9 @@ I only used my rental car three times to go on full day hikes. Not a lot for two
 
 I'm new to solo travel so having a car is a security blanket for me. It made the trip easy and made me feel less anxious. So in that regard it was probably worth it. But as I become more experienced I would like to try travelling without such an expensive luxury.
 
-# Recommendations
+{% picture /assets/images/trip-report/mittenwald/mountain-hike-2.jpg class="full-width" %}
 
-SUN DOWN IMAGE ?
+# Recommendations
 
 ## Stay a while
 
@@ -142,3 +144,5 @@ If you only have a few days I would go hike the two mountain lakes [Lautersee][l
 I had a great time in Mittenwald. Lots of hiking to do and a lovely town to stay in. But my biggest personal lesson was the travel format. Staying in the same place for a while. I enjoyed that and it is not the last time I will go on such a trip alone.
 
 [_Trip report template by /r/solotravel_](https://www.reddit.com/r/solotravel/comments/cfxkr9/trip_report_template/)
+
+{% picture /assets/images/trip-report/mittenwald/mountain-hike-1.jpg class="full-width" %}
