@@ -11,9 +11,7 @@ Why this story? Because it offers a different perspective. Because it asked me t
 
 <!--more-->
 
-<img class="full-width" src="{{ site.url }}/assets/images/trip-report/mittenwald/DSC07718-2.jpg" alt="Hiking in the mountains">
-
-{% picture /assets/images/trip-report/mittenwald/DSC07718-2.jpg class="full-width" %}
+{% picture /assets/images/trip-report/mittenwald/hiking.jpg class="full-width" --alt Hiking in the mountains %}
 
 # Trip Length
 
@@ -35,7 +33,7 @@ The east side of Mittenwald ends in a towering mountain that can be seen from an
 
 # Accommodation
 
-<img class="full-width" src="{{ site.url }}/assets/images/trip-report/mittenwald/DSC07819.jpg" alt="Airbnb apartment">
+{% picture /assets/images/trip-report/mittenwald/inside-airbnb.jpg class="full-width" --alt Inside Airbnb apartment %}
 
 Airbnb close to town centre.
 
@@ -49,7 +47,7 @@ The easy access to hiking routes was great too. Most days I hiked straight from 
 
 ## Hiking
 
-<img class="full-width" src="{{ site.url }}/assets/images/trip-report/mittenwald/DSC07810.jpg" alt="Taking a break">
+{% picture /assets/images/trip-report/mittenwald/break-in-the-mountains.jpg class="full-width" --alt Taking a break in the mountains %}
 
 I had picked this place because I wanted to hike and I was not let down.
 
@@ -70,6 +68,8 @@ Time of year played a role when I picked southern Germany as my location. I didn
 ## Reading. Writing. Thinking
 
 <img class="full-width" src="{{ site.url }}/assets/images/trip-report/mittenwald/DSC08226.jpg" alt="Writing">
+
+{% picture /assets/images/trip-report/mittenwald/writing.jpg class="full-width" --alt Writing %}
 
 On rest days I read a lot. From the comfort of my rental apartment. The neighbourhood was cozy and quiet. Except for church bells once in a while---but they just added to the atmosphere.
 
