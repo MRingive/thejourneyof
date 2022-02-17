@@ -67,8 +67,6 @@ Time of year played a role when I picked southern Germany as my location. I didn
 
 ## Reading. Writing. Thinking
 
-<img class="full-width" src="{{ site.url }}/assets/images/trip-report/mittenwald/DSC08226.jpg" alt="Writing">
-
 {% picture /assets/images/trip-report/mittenwald/writing.jpg class="full-width" --alt Writing %}
 
 On rest days I read a lot. From the comfort of my rental apartment. The neighbourhood was cozy and quiet. Except for church bells once in a while---but they just added to the atmosphere.
